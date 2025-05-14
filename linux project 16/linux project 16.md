@@ -28,7 +28,8 @@
 - Set Up Log Rotation
     - Configure log rotation for a custom log file (e.g., /var/log/myapp.log).
 
->   sudo nano /etc/logrotate.d/myapp
+    >   sudo nano /etc/logrotate.d/myapp
+
 
 ![screenshot-5](logrotation.JPG)
 
