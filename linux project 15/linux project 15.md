@@ -45,6 +45,7 @@
       
    >    tcpdump -r capture.pcap
 
+
 - [screenshot-5](analyzecapturedtraffik.JPG)
 
 

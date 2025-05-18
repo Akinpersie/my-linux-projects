@@ -49,3 +49,7 @@
 
     */10 * * * * df -h | awk '$5 > 90 {print $1, $5}' | mail -s "Disk Usage Alert" akindulureniseun@gmail.com
 
+![screenshot-6](crontab.JPG)
+
+![screenshot-7](sudocrontab.JPG)
+
